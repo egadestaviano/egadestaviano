@@ -48,8 +48,5 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 
 - 🌐 Website/Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) *(optional)*
 - 💼 LinkedIn: [linkedin.com/in/egadestaviano](https://linkedin.com/in/egadestaviano)
-- 📧 Email: egadestaviano@example.com *(replace with real one)*
+- 📧 Email:  [pastilaku121@gmail.com](mailtp://pastilaku121@gmail.com)
 
----
-
-> “Code is how I turn ideas into impact.” – *Ega Destaviano*
