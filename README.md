@@ -3,7 +3,7 @@
   <em>Full Stack Developer • 3+ Years Experience • he/him</em>  
 </p>
 <p align="center">
-  <b>Laravel</b> • <b>React.js</b> • <b>Vue.js</b> • <b>Next.js</b> • <b>API Integrations</b>
+  <b>Laravel</b> • <b>React.js</b> • <b>Vue.js</b> • <b>Next.js</b> • <b>Python</b> • <b>API Integrations</b>
 </p>
 
 ---
