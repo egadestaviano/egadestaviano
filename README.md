@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ega Destaviano</h1>
+<h1 align="center">Hi, I'm Ega Destaviano</h1>
 <p align="center">
   <em>Full Stack Developer • 3+ Years Experience • he/him</em>  
 </p>
@@ -13,7 +13,7 @@
 👋 Hi! I'm Ega, a **Full Stack Developer** with **3+ years** of experience building robust and scalable web solutions.  
 I've completed **100+ projects**, from **SaaS platforms** and **eCommerce systems** to **enterprise-grade APIs**.
 
-🧠 I specialize in delivering **clean**, **maintainable**, and **business-aligned** code—crafted with performance and user experience in mind.
+🧠 I specialize in delivering **clean**, **maintainable**, and **business-aligned** code crafted with performance and user experience in mind.
 
 🚀 I'm passionate about:
 - Solving real-world problems with tech
