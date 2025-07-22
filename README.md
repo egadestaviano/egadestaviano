@@ -15,11 +15,6 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 
 🧠 I specialize in delivering **clean**, **maintainable**, and **business-aligned** code crafted with performance and user experience in mind.
 
-🚀 I'm passionate about:
-- Solving real-world problems with tech
-- Writing well-structured code
-- Continuously improving through learning and collaboration
-
 ---
 
 ## 🛠️ Tech Stack
