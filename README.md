@@ -17,7 +17,7 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack   
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FC4949?style=flat&logo=laravel&logoColor=white)
