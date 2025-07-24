@@ -30,15 +30,6 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egadestaviano&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egadestaviano&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [linkedin.com/in/egadestaviano](https://linkedin.com/in/egadestaviano)
