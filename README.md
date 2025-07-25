@@ -34,4 +34,3 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 
 - 💼 LinkedIn: [linkedin.com/in/egadestaviano](https://linkedin.com/in/egadestaviano)
 - 📧 Email:  [pastilaku121@gmail.com](mailtp://pastilaku121@gmail.com)
-
