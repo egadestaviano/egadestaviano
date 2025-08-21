@@ -30,6 +30,7 @@ I've completed **100+ projects**, from **SaaS platforms** and **eCommerce system
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
+
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [linkedin.com/in/egadestaviano](https://linkedin.com/in/egadestaviano)
