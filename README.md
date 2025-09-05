@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ega Destaviano</h1>
 <p align="center">
-  <em>Full Stack Developer • 3+ Years Experience • he/him</em>  
+  <em>Full Stack Developer • 5+ Years Experience • he/him</em>  
 </p>
 <p align="center">
   <b>Laravel</b> • <b>React.js</b> • <b>Vue.js</b> • <b>Next.js</b> • <b>Python</b> • <b>API Integrations</b>
